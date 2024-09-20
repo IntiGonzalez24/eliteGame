@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: darkgray;
+}
+
+.galeria{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+}
+
+.card >p{
+padding-top: 20px;
+}
